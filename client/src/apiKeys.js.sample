@@ -1,0 +1,5 @@
+const apiKeys = {
+    bearerToken: ''
+};
+
+export default apiKeys;
